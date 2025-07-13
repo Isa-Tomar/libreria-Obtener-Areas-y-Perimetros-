@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"paquete","l":"CalculadoraFiguras"},{"p":"paquete","l":"MenuBarPersonalizable.DireccionGradiente"},{"p":"paquete","l":"MenuBarPersonalizable.EfectoVisual"},{"p":"paquete","l":"MenuBarPersonalizable"}];updateSearchResults();
