@@ -2,6 +2,9 @@
 
 Este proyecto en Java permite calcular el área y el perímetro de diferentes figuras geométricas mediante una interfaz gráfica personalizada con `MenuBarPersonalizable`.
 
+## Video de muestra en YOUTUBE
+-WIIEIIE
+---
 ## Características
 
 - Interfaz gráfica con menús para cada figura.
@@ -46,9 +49,11 @@ libreria/
  ├── implementacion/ <- Contiene la implementacion de la clase principal
  └── documentacion/ <- Archivos javadoc
 
-## Autor
+## Autores
 
-Desarrollado por Hernandez Uvera Azael y Toledo Mariscal Isai Raziel.
+Desarrollado por:
+- Hernandez Uvera Azael
+- Toledo Mariscal Isai Raziel.
 
 ---
 
